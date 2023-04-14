@@ -1,4 +1,5 @@
-images/**/*
+images
 loaded
 data
 node_modules
+subcategories-images

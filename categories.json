@@ -1,0 +1,1174 @@
+[
+  {
+    "title_ro": "Brutărie",
+    "title_ru": "Пекарня",
+    "alias": "bakery",
+    "subcategories": [
+      {
+        "title_ro": "Pâine",
+        "title_ru": "Хлеб",
+        "alias": "bread",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.87172b63b79dfd981ae454013683ab36.300x300.png"
+      },
+      {
+        "title_ro": "Pâinițe",
+        "title_ru": "Хлебцы",
+        "alias": "crispbread-metro",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.7c6d3dcfc59964e189ca941fa2f0ab57.300x300.png"
+      },
+      {
+        "title_ro": "Lavaș și blaturi",
+        "title_ru": "Лаваши и коржи",
+        "alias": "wheat-bread-and-shortcake",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f0154d996aeab80b98afd4defcada14d.300x300.png"
+      },
+      {
+        "title_ro": "Chifle",
+        "title_ru": "Булочки",
+        "alias": "bagels-and-buns",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.b98164ce94a35d19f308bc72c227e041.300x300.png"
+      },
+      {
+        "title_ro": "Covrigi",
+        "title_ru": "Сушка",
+        "alias": "dried-crust",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.e1f23b7f9d528ab5ddcd877c14d31cac.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Fructe și legume",
+    "title_ru": "Фрукты и овощи",
+    "alias": "fruits-and-vegetables",
+    "subcategories": [
+      {
+        "title_ro": "Fructe",
+        "title_ru": "Фрукты",
+        "alias": "fruits",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.c1f13a03ebaefcd401fb434d99263201.300x300.png"
+      },
+      {
+        "title_ro": "Legume",
+        "title_ru": "Овощи",
+        "alias": "vegetables",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.0cb827ce0216406888bf0585c7b1a50c.300x300.png"
+      },
+      {
+        "title_ro": "Ciuperci",
+        "title_ru": "Грибы",
+        "alias": "mushrooms",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.8fb474ff446ec2b64cceba16b2f3fdd3.300x300.png"
+      },
+      {
+        "title_ro": "Salate și verdețuri ",
+        "title_ru": "Салаты и зелень ",
+        "alias": "fresh-greens",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.261d5c06c76b454e664d911c1da1a5ed.300x300.png"
+      },
+      {
+        "title_ro": "Murături",
+        "title_ru": "Соленье",
+        "alias": "salads-and-pickles",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.2b2bdb0554bf4eccd4a193070fe5ca72.300x300.png"
+      },
+      {
+        "title_ro": "Fructe uscate",
+        "title_ru": "Сухофрукты",
+        "alias": "dried-fruits",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.a37791bb37cafb8df75bae6126fde65b.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Produse lactate și ouă",
+    "title_ru": "Молочное и яйца",
+    "alias": "dairy-and-eggs",
+    "subcategories": [
+      {
+        "title_ro": "Lapte",
+        "title_ru": "Молоко",
+        "alias": "milk",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d47571a1dc3098bd639cfb3d0d3a7728.300x300.png"
+      },
+      {
+        "title_ro": "Cașcaval",
+        "title_ru": "Сыр",
+        "alias": "cheese",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d831866be398d47b65516fb93d52e8d3.300x300.png"
+      },
+      {
+        "title_ro": "Brânză ",
+        "title_ru": "Творог",
+        "alias": "curd",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.6429869e312ecba83ee1196e1d61c5ad.300x300.png"
+      },
+      {
+        "title_ro": "Smântână",
+        "title_ru": "Сметана",
+        "alias": "sour-cream",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.25ed596671acbecf445fb478f6c69397.300x300.png"
+      },
+      {
+        "title_ro": "Iaurt",
+        "title_ru": "Йогурт",
+        "alias": "yogurt",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.02c46fc39f27b376fe7f119b5611ea4d.300x300.png"
+      },
+      {
+        "title_ro": "Băuturi acidolactice",
+        "title_ru": "Кисломолочные напитки",
+        "alias": "milk-drinks",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.080e439878a33bb14955490382b835b7.300x300.png"
+      },
+      {
+        "title_ro": "Borș acru",
+        "title_ru": "Квас",
+        "alias": "kvass",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.1716f9aae8ecb67d383f7afb0f9d6096.300x300.png"
+      },
+      {
+        "title_ro": "Unt și margarină ",
+        "title_ru": "Масло и маргарин",
+        "alias": "butter",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d5ab1749a762b098432a2852c7654f56.300x300.png"
+      },
+      {
+        "title_ro": "Deserturi",
+        "title_ru": "Десерты",
+        "alias": "dairy-dessert",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.b7391f19b7649e5227b0f56980efb7d2.300x300.png"
+      },
+      {
+        "title_ro": "Frișcă",
+        "title_ru": "Сливки",
+        "alias": "cream",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.96eefc80dcab9e6cb1e0912b2c6d73e7.300x300.png"
+      },
+      {
+        "title_ro": "Lapte condensat",
+        "title_ru": "Сгущенное молоко",
+        "alias": "condensed-milk-metro",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.957c14f357543297f270b7159968eb5c.300x300.png"
+      },
+      {
+        "title_ro": "Ouă",
+        "title_ru": "Яйца",
+        "alias": "eggs",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.13b0dca0d2364536e6cdc92fe3bea276.300x300.png"
+      },
+      {
+        "title_ro": "Drojdie",
+        "title_ru": "Прессованные дрожжи",
+        "alias": "pressed-yeast",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.c4a0a729f66068487c646d6caa5170ed.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Carne, pește, pasăre",
+    "title_ru": "Мясо, рыба, птица",
+    "alias": "meat-fish-poultry",
+    "subcategories": [
+      {
+        "title_ro": "Carne proaspătă ",
+        "title_ru": "Свежее мясо",
+        "alias": "fresh-meat",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.bdde2ae2fab3d8796f5d1d4d28030303.300x300.png"
+      },
+      {
+        "title_ro": "Carne congelată ",
+        "title_ru": "Замороженное мясо",
+        "alias": "meat-and-paultry",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.bec84f547841ec3239719d760250da6b.300x300.png"
+      },
+      {
+        "title_ro": "Pește proaspăt",
+        "title_ru": "Свежая рыба",
+        "alias": "fresh-fish",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.2a6d8a863ba96e6a132628416595e718.300x300.png"
+      },
+      {
+        "title_ro": "Pește congelat ",
+        "title_ru": "Замороженная рыба",
+        "alias": "frozen-fish",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.1d28a1551d38bcf336764eb72fe52a87.300x300.png"
+      },
+      {
+        "title_ro": "Peste preparat",
+        "title_ru": "Приготовленная рыба",
+        "alias": "prepared-fish",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.7eb81eb13360ab5fc2da98598b281b13.300x300.png"
+      },
+      {
+        "title_ro": "Fructe de mare ",
+        "title_ru": "Морепродукты",
+        "alias": "chilled-seafood",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.9062be9617beab57d40f3932babf2bca.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Mezeluri",
+    "title_ru": "Колбасные изделия",
+    "alias": "sausages-and-burgers",
+    "subcategories": [
+      {
+        "title_ro": "Salam",
+        "title_ru": "Колбаса",
+        "alias": "sausage",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.aabc7e644b25ae4e5ae6c36692c764f5.300x300.png"
+      },
+      {
+        "title_ro": "Parizier",
+        "title_ru": "Паризер",
+        "alias": "parizer",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.00bf5809464dc24197ec50e9e7056b85.300x300.png"
+      },
+      {
+        "title_ro": "Crenvurști și sarfalade",
+        "title_ru": "Cосиски и сардельки ",
+        "alias": "vienna-sausage",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.3d3b041b5b6a61c4f66c974b2f87b924.300x300.png"
+      },
+      {
+        "title_ro": "Delicatese din carne",
+        "title_ru": "Мясные деликатесы",
+        "alias": "meat-delicatessen",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d0e838004d6e0f341a2f93159dbdafca.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Sosuri si condimente",
+    "title_ru": "Соусы и специи",
+    "alias": "sauces-and-spices",
+    "subcategories": [
+      {
+        "title_ro": "Maioneză",
+        "title_ru": "Майонез",
+        "alias": "mayonnese",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.4dfd6e7fe68fe90e12f40540bd34ab03.300x300.png"
+      },
+      {
+        "title_ro": "Sosuri",
+        "title_ru": "Соус",
+        "alias": "sauce",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.52fe96bbe724b444b0ead22cc6e6d88c.300x300.png"
+      },
+      {
+        "title_ro": "Ketchup",
+        "title_ru": "Кетчуп",
+        "alias": "ketchup",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d87001333338b29808ee25d219b31929.300x300.png"
+      },
+      {
+        "title_ro": "Condimente și mirodenii",
+        "title_ru": "Приправы и специи",
+        "alias": "herbs-and-spices",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.352781eed66aef6de478a89296cbde28.300x300.png"
+      },
+      {
+        "title_ro": "Sare",
+        "title_ru": "Соль",
+        "alias": "salt",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.094b7eda739f74dcaaf225275f3f9c3b.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Produse congelate",
+    "title_ru": "Морозилка",
+    "alias": "frozen",
+    "subcategories": [
+      {
+        "title_ro": "Pizza și aluat",
+        "title_ru": "Пицца и тесто",
+        "alias": "pizza-and-breads",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f9970e124e561a4b6571492abd8d0e99.300x300.png"
+      },
+      {
+        "title_ro": "Semifabricate",
+        "title_ru": "Полуфабрикаты",
+        "alias": "half-made-food",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.7c2509e5504fd16071967a4e831237ff.300x300.png"
+      },
+      {
+        "title_ro": "Fructe",
+        "title_ru": "Фрукты",
+        "alias": "desserts-and-fruits",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.71d4592fde9bd06886e00f88aa95f1c4.300x300.png"
+      },
+      {
+        "title_ro": "Legume și ciuperci",
+        "title_ru": "Овощи и грибы",
+        "alias": "frozen-vegetables",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.1a9e8eb8125ce09073e1127ba0ec22a9.300x300.png"
+      },
+      {
+        "title_ro": "Deserturi",
+        "title_ru": "Десерты",
+        "alias": "desserts",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.ea5dd46fc2bbfd47bc46e4236a4432d3.300x300.png"
+      },
+      {
+        "title_ro": "Înghețată ",
+        "title_ru": "Мороженое",
+        "alias": "icecream",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.178fa98f990e44d8f453c49cb5f89999.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Conserve, ulei, oțet",
+    "title_ru": "Консервы, масло, уксус",
+    "alias": "canned-food-oil-vinegar",
+    "subcategories": [
+      {
+        "title_ro": "Ulei și oțet",
+        "title_ru": "Масло и уксус",
+        "alias": "oils-and-vinegar",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f39fa6942067f9d6f41e34e4c56c15a5.300x300.png"
+      },
+      {
+        "title_ro": "Conserve de carne",
+        "title_ru": "Консервированное мясо",
+        "alias": "canned-meat",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.84239f335086b333133f91f71b038d41.300x300.png"
+      },
+      {
+        "title_ro": "Conserve de pește",
+        "title_ru": "Консервированная рыба",
+        "alias": "canned-fish",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.1218b51f99fc3885b9bb6be6196af862.300x300.png"
+      },
+      {
+        "title_ro": "Conserve de fructe",
+        "title_ru": "Консервированные фрукты",
+        "alias": "canned-fruit",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.5d2a272fa0921cd5588d8a48504cce97.300x300.png"
+      },
+      {
+        "title_ro": "Conserve de legume",
+        "title_ru": "Консервированные овощи",
+        "alias": "canned-vegetables",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.c2f4556df739dfaad3cfbc2ded34bf24.300x300.png"
+      },
+      {
+        "title_ro": "Garnituri conservate",
+        "title_ru": "Консервированные гарниры",
+        "alias": "canned-side-dishes",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.bd27a9c26ae1a5b77122cbf9932f758d.300x300.png"
+      },
+      {
+        "title_ro": "Olive și măsline",
+        "title_ru": "Оливки и маслины",
+        "alias": "olives",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.ac335758342f7d0fcf463a5ff5e523c0.300x300.png"
+      },
+      {
+        "title_ro": "Pate",
+        "title_ru": "Паштет",
+        "alias": "pate",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.b8be7702e0c20033c6e484d60ccb49ae.300x300.png"
+      },
+      {
+        "title_ro": "Gem, dulceață, magiun",
+        "title_ru": "Джем, варенье, повидло",
+        "alias": "jam-and-spreads",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.08a01b35d2e93c86506518a71cd6f880.300x300.png"
+      },
+      {
+        "title_ro": "Miere",
+        "title_ru": "Мед",
+        "alias": "honey",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.cfc9eb2a407e0ddef14d45121a5caf0c.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Băcănie",
+    "title_ru": "Бакалея",
+    "alias": "packets-cereals",
+    "subcategories": [
+      {
+        "title_ro": "Paste",
+        "title_ru": "Макароны",
+        "alias": "pasta",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.64acf67660c3ff3e5347839acfbb09ea.300x300.png"
+      },
+      {
+        "title_ro": "Crupe",
+        "title_ru": "Крупа",
+        "alias": "pulses-and-grain",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.5668616cd70f813ae5310766a6813286.300x300.png"
+      },
+      {
+        "title_ro": "Făină",
+        "title_ru": "Мука",
+        "alias": "flour",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.4a0eed3075594010e3f7fd5a0a209b39.300x300.png"
+      },
+      {
+        "title_ro": "Cereale pentru micul dejun",
+        "title_ru": "Сухие завтраки",
+        "alias": "breakfast-cereals",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.21070c1d77987bc04d4f45d07de86490.300x300.png"
+      },
+      {
+        "title_ro": "Terciuri și muesli",
+        "title_ru": "Каши и мюсли",
+        "alias": "porridge-and-muesli",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.b22a85dc5f9f4c6127c8deb748465dbf.300x300.png"
+      },
+      {
+        "title_ro": "Mâncare de preparare rapidă",
+        "title_ru": "Еда быстрого приготовления",
+        "alias": "snack-meals",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d63ec51c587127e08f9485008b2ce274.300x300.png"
+      },
+      {
+        "title_ro": "Pentru copturi și deserturi",
+        "title_ru": "Для выпечки и десертов",
+        "alias": "home-baking",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.fa7848a15adb097fd41462e7c6c6fcf1.300x300.png"
+      },
+      {
+        "title_ro": "Toppinguri și siropuri",
+        "title_ru": "Топпинги и сиропы",
+        "alias": "topping",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.6767c7c9b5936f706b6e3fb42bf8dd3c.300x300.png"
+      },
+      {
+        "title_ro": "Zahăr și îndulcitori",
+        "title_ru": "Сахар и сахарозаменители",
+        "alias": "sugar-and-sweetener",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.76288d1a7f758d856077dfeff9c9863b.300x300.png"
+      },
+      {
+        "title_ro": "Produse din soia",
+        "title_ru": "Соевые продукты",
+        "alias": "soy-food",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.155092532f555b5f1189baf6575b06d2.300x300.png"
+      },
+      {
+        "title_ro": "Totul pentru sushi",
+        "title_ru": "Все для суши",
+        "alias": "for-sushi",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d492b667e6cb9680b251b37ec7cd6811.300x300.png"
+      },
+      {
+        "title_ro": "Suplimente alimentare",
+        "title_ru": "Биодобавки",
+        "alias": "supplements",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.b2412f7a8ef4cecb5e5f8cf19d5a0c95.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Băuturi nealcoolice",
+    "title_ru": "Безалкогольные напитки",
+    "alias": "soft-drinks-metro",
+    "subcategories": [
+      {
+        "title_ro": "Apă minerală",
+        "title_ru": "Минеральная вода",
+        "alias": "mineral-water",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.7c2f1fac0895a6464bdb15dd2c7b27da.300x300.png"
+      },
+      {
+        "title_ro": "Băutură carbogazoasă răcoritoare",
+        "title_ru": "Прохладительные газированные напитки",
+        "alias": "soft-drinks",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f7352d55f1e875ce234230c31d173c88.300x300.png"
+      },
+      {
+        "title_ro": "Ceai rece",
+        "title_ru": "Холодный чай",
+        "alias": "ice-tea",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.3b760d0108c1649252a48b04708bc56a.300x300.png"
+      },
+      {
+        "title_ro": "Suc si nectar",
+        "title_ru": "Соки и нектары",
+        "alias": "juice",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.aa3b7bfcccad904720a0a81b15e9eb19.300x300.png"
+      },
+      {
+        "title_ro": "Băuturi energizante",
+        "title_ru": "Энергетические напитки",
+        "alias": "energy-drinks",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.2d3860856e5ade4891f23f116f36e889.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Băuturi calde",
+    "title_ru": "Горячие напитки",
+    "alias": "drinks",
+    "subcategories": [
+      {
+        "title_ro": "Ceai",
+        "title_ru": "Чай",
+        "alias": "tea",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.86eb35dae284b8f05c7651ee7e7de534.300x300.png"
+      },
+      {
+        "title_ro": "Cafea",
+        "title_ru": "Кофе",
+        "alias": "coffee",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.472f10fd24bd114e5721122c9c9d5f30.300x300.png"
+      },
+      {
+        "title_ro": "Alte băuturi calde",
+        "title_ru": "Какао напитки и шоколад",
+        "alias": "cocoa-drinks",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.c22a29c30006ffb202420a3d5eeb721f.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Bere",
+    "title_ru": "Пиво",
+    "alias": "beer",
+    "subcategories": [
+      {
+        "title_ro": "Blondă",
+        "title_ru": "Светлое пиво",
+        "alias": "lager-beer",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d7abd909b7bf389399d0e20d5df74a7f.300x300.png"
+      },
+      {
+        "title_ro": "Brună",
+        "title_ru": "Темное пиво",
+        "alias": "dark-beer",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.22c6ff78833e89224bb1f242dc3c55b7.300x300.png"
+      },
+      {
+        "title_ro": "Fără alcool",
+        "title_ru": "Безалкогольное пиво",
+        "alias": "nonalcoholic-beer",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.6776d2c6eeeaa637c85eab84b27c3bd3.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Alcool",
+    "title_ru": "Алкоголь",
+    "alias": "eighteen-plus",
+    "subcategories": [
+      {
+        "title_ro": "Vin",
+        "title_ru": "Вино",
+        "alias": "wine",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.e752a8ffdc84d605c63523279e4ed5d1.300x300.png"
+      },
+      {
+        "title_ro": "Vin spumant",
+        "title_ru": "Шампанское и игристое вино",
+        "alias": "champagne-sparkling-wine",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f7799533c9375eccd9a1fdcd0742ad95.300x300.png"
+      },
+      {
+        "title_ro": "Divin",
+        "title_ru": "Бренди",
+        "alias": "brandy",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d952700649bdde07974f727075c15bfb.300x300.png"
+      },
+      {
+        "title_ro": "Whiskey",
+        "title_ru": "Виски",
+        "alias": "whiskey",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.82bd65c94e50bf85f8a9e6732db08068.300x300.png"
+      },
+      {
+        "title_ro": "Rom, tequila, gin",
+        "title_ru": "Ром, текила, джин",
+        "alias": "rum-tekila-gin",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.069c131866db4717a3bd3a42c1f392be.300x300.png"
+      },
+      {
+        "title_ro": "Vodca, țuică, grappa",
+        "title_ru": "Водка, граппа",
+        "alias": "vodka",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.4dbc9da72e51982a5e163ef8b87b9418.300x300.png"
+      },
+      {
+        "title_ro": "Lichior, balsam, vermut",
+        "title_ru": "Ликёр, бальзам, вермут",
+        "alias": "liquor-in-vitis",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f444d9acd08e990f90ee422ab20d98e0.300x300.png"
+      },
+      {
+        "title_ro": "Bauturi slab alcoolice",
+        "title_ru": "Слабоалкогольные напитки",
+        "alias": "cider-and-alcopops",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.19d13aed438b7d1cc637edf06cfa7f11.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Dulciuri",
+    "title_ru": "Сладости",
+    "alias": "snacks-and-sweets",
+    "subcategories": [
+      {
+        "title_ro": "Ciocolate",
+        "title_ru": "Шоколад",
+        "alias": "chocolate",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.b69d524fbce3a606420cc7a8309c06df.300x300.png"
+      },
+      {
+        "title_ro": "Cofetarie",
+        "title_ru": "Кондитерские изделия",
+        "alias": "confectionery",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.deefeca2cbcf1e2038804561debf0676.300x300.png"
+      },
+      {
+        "title_ro": "Bomboane",
+        "title_ru": "Конфеты",
+        "alias": "candies",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.234f6022742c4984327668f1c29bd396.300x300.png"
+      },
+      {
+        "title_ro": "Alte dulciuri",
+        "title_ru": "Другие сладости",
+        "alias": "another-sweets",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.2df2cfa5643a5e6faa20456f73f1d2d3.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Nuci & semințe",
+    "title_ru": "Орехи и семечки",
+    "alias": "nuts-and-seeds",
+    "subcategories": [
+      {
+        "title_ro": "Nuci",
+        "title_ru": "Орехи",
+        "alias": "nuts",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.ea38b779f502e7325f1c5ca695a7c64a.300x300.png"
+      },
+      {
+        "title_ro": "Semințe",
+        "title_ru": "Семечки",
+        "alias": "seeds",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.89e6f58d15f16ab77041f1ca60585931.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Gustări și crocante",
+    "title_ru": "Снеки",
+    "alias": "crisps-and-snacks",
+    "subcategories": [
+      {
+        "title_ro": "Chipsuri",
+        "title_ru": "Чипсы",
+        "alias": "chips",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.2ff780f422e0ca13d5db14c13a1d2d70.300x300.png"
+      },
+      {
+        "title_ro": "Pesmeti",
+        "title_ru": "Сухарики",
+        "alias": "saltine-rusks",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.5b459119c58b0c1b71ec9e5bcbb851ff.300x300.png"
+      },
+      {
+        "title_ro": "Gustari de peste si carne",
+        "title_ru": "Рыбные и мясные снеки",
+        "alias": "fish-and-meat-snecks",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.10794a95b9de8a44312f6aef62bf4108.300x300.png"
+      },
+      {
+        "title_ro": "Popcorn ",
+        "title_ru": "Попкорн",
+        "alias": "popcorn",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f92fffdafa28a754c37731af259f0fff.300x300.png"
+      },
+      {
+        "title_ro": "Nuci sărate",
+        "title_ru": "Соленые орешки",
+        "alias": "salted-nuts",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.112d1a8588e752629c341ebea10bdeae.300x300.png"
+      },
+      {
+        "title_ro": "Gustări",
+        "title_ru": "Снеки",
+        "alias": "snack",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f772fdbcac6db04b680669bf23247d40.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Pentru copii",
+    "title_ru": "Детское",
+    "alias": "babies",
+    "subcategories": [
+      {
+        "title_ro": "Îngrijire",
+        "title_ru": "Уход",
+        "alias": "care-babies",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f5261e8928e9245ab03d2727bf519742.300x300.png"
+      },
+      {
+        "title_ro": "Alimentație",
+        "title_ru": "Питание",
+        "alias": "food-babies",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d48905450d5c12a43004fd8ef8d76bcf.300x300.png"
+      },
+      {
+        "title_ro": "Jucării și cărți",
+        "title_ru": "Игрушки и книги",
+        "alias": "toys-and-books",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.4539a97340adce5c7d9f6c6f40d0b7c7.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Cosmetică și îngrijire",
+    "title_ru": "Косметика и уход",
+    "alias": "personal-care-cosmetics-perfumes",
+    "subcategories": [
+      {
+        "title_ro": "Îngrijirea părului",
+        "title_ru": "Уход за волосами",
+        "alias": "for-hair",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.eae8fe970b81160c6e8500048d9b208d.300x300.png"
+      },
+      {
+        "title_ro": "Deodorant",
+        "title_ru": "Дезодоранты",
+        "alias": "deodorant",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.20e691f9cae2ff0e5b9bb4461de68aa4.300x300.png"
+      },
+      {
+        "title_ro": "Îngrijirea feței",
+        "title_ru": "Уход за лицом",
+        "alias": "for-face",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.adeac3669344fbfcfb15c65961645bbf.300x300.png"
+      },
+      {
+        "title_ro": "Îngrijirea corpului",
+        "title_ru": "Уход за телом",
+        "alias": "for-body",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.a7537740d4b54e05bd7b491be44b62ef.300x300.png"
+      },
+      {
+        "title_ro": "Pentru ras și depilare ",
+        "title_ru": "Для бритья и депиляции",
+        "alias": "for-shaving-and-hair-removal",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.ebb2c9596335e71afa328f2296db2717.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Igiena personală",
+    "title_ru": "Личная гигиена",
+    "alias": "personal-hygiene-metro",
+    "subcategories": [
+      {
+        "title_ro": "Igiena orală",
+        "title_ru": "Уход за полостью рта",
+        "alias": "for-mouth",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.7981794e8610677beaed6f3c2209abf9.300x300.png"
+      },
+      {
+        "title_ro": "Bețișoare și discuri demachiante",
+        "title_ru": "Ушные палочки и ватные диски ",
+        "alias": "cotton-wool",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.a981d222ab8b32b35b94be36bff7d64e.300x300.png"
+      },
+      {
+        "title_ro": "Igiena intimă",
+        "title_ru": "Интимная гигиена",
+        "alias": "for-ladies",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.ac63bd30d7d2c541268e39e15aa698b5.300x300.png"
+      },
+      {
+        "title_ro": "Antiseptice",
+        "title_ru": "Антисептики ",
+        "alias": "antiseptic",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.a7cd699e8650eb081d5c23d96d98c2df.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Chimice de uz casnic",
+    "title_ru": "Бытовая химия",
+    "alias": "chemicals",
+    "subcategories": [
+      {
+        "title_ro": "Odorizanți",
+        "title_ru": "Освежители воздуха",
+        "alias": "freshener",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.e62e00c17b11f8de0d918c17514b6648.300x300.png"
+      },
+      {
+        "title_ro": "Detergent vase",
+        "title_ru": "Моющее средство для посуды",
+        "alias": "for-washing-dishes",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.4d7ef5326628f9837e37e208f6768437.300x300.png"
+      },
+      {
+        "title_ro": "Detergent rufe",
+        "title_ru": "Всё для стирки",
+        "alias": "for-washing",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.7cc5f5cf341314ba195e51b3fed19b6d.300x300.png"
+      },
+      {
+        "title_ro": "Produse de curățat",
+        "title_ru": "Чистящие средства",
+        "alias": "for-cleaning",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.3dc8a69e91de8c1a1745828b56c5a92d.300x300.png"
+      },
+      {
+        "title_ro": "Îgrijirea încălțămintei și hainelor",
+        "title_ru": "Для обуви и тканей",
+        "alias": "for-shoes",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.28c861779df88811eb38eaa34cea043b.300x300.png"
+      },
+      {
+        "title_ro": " insecticide",
+        "title_ru": "Инсектициды",
+        "alias": "insect-repellent",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.a2954347be5bd7d479b86680afc5ba95.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Mărfuri de uz casnic",
+    "title_ru": "Хозяйственные товары",
+    "alias": "household-goods-metro",
+    "subcategories": [
+      {
+        "title_ro": "Mănuși",
+        "title_ru": "Перчатки",
+        "alias": "gloves-for-cleaning",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.14f17a3f048fb2423efef99cfee537e3.300x300.png"
+      },
+      {
+        "title_ro": "Saci de gunoi",
+        "title_ru": "Мешки для мусора",
+        "alias": "garbage-bags",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.c640b009c3f2223f465e4b84efcfce2f.300x300.png"
+      },
+      {
+        "title_ro": "Produse din hârtie",
+        "title_ru": "Бумажные изделия",
+        "alias": "paper-goods",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.e0653120f7404fccd96b46acee4396d0.300x300.png"
+      },
+      {
+        "title_ro": "Șervețele, raclete, bureți ",
+        "title_ru": "Салфетки, скребки, губки",
+        "alias": "scraper-sponge-napkin",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.762bb9cb3a746eba7f299f56f7256a7b.300x300.png"
+      },
+      {
+        "title_ro": "Teuri",
+        "title_ru": "Швабры",
+        "alias": "mop",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.fb1adce951e38975e6e1f32b48ef2b71.300x300.png"
+      },
+      {
+        "title_ro": "Perii și fărașe ",
+        "title_ru": "Щетки и совки",
+        "alias": "brushes-and-dustpans",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.9b939b91d70d4c188a790cf60e4898aa.300x300.png"
+      },
+      {
+        "title_ro": "Găleți și lighene",
+        "title_ru": "Ведра и тазы",
+        "alias": "pail-and-bowl",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.03470bb682807b673bd07fbf25a7011c.300x300.png"
+      },
+      {
+        "title_ro": "Filtre",
+        "title_ru": "Фильтры",
+        "alias": "filters",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.742cb5baf739e2fc1b8782192f0a8bef.300x300.png"
+      },
+      {
+        "title_ro": "Produse pentru casă",
+        "title_ru": "Товары для дома",
+        "alias": "trivia-for-home",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.a18061b1ad3f82ec61ef5a2aa37ea02a.300x300.png"
+      },
+      {
+        "title_ro": "Accesorii pentru haine",
+        "title_ru": "Аксессуары для одежды",
+        "alias": "accessories-for-clothes",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.e5f981c934af000611cb680fe5133405.300x300.png"
+      },
+      {
+        "title_ro": "Aparate de uz casnic",
+        "title_ru": "Бытовая техника",
+        "alias": "home-appliances",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.ec4c096e5c42a9ee8fc533d9d970c66d.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Bucătarie",
+    "title_ru": "Кухня",
+    "alias": "kitchenware-metro",
+    "subcategories": [
+      {
+        "title_ro": "Pocale, păhare, ulcioare",
+        "title_ru": "Бокалы, стаканы, графины",
+        "alias": "glasses-decanters",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.0a7e5ea228050a24fa5026b7555d70f7.300x300.png"
+      },
+      {
+        "title_ro": "Veselă pentru bucătărie",
+        "title_ru": "Кухонная посуда",
+        "alias": "cookware",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.7aefc5f357f79501751d0a86b39794ab.300x300.png"
+      },
+      {
+        "title_ro": "Veselă de masă ",
+        "title_ru": "Столовая посуда",
+        "alias": "tableware",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.d769bdf7af6cb34ba0e11c78abe8c16e.300x300.png"
+      },
+      {
+        "title_ro": "Accesorii pentru bucătărie ",
+        "title_ru": "Кухонные принадлежности",
+        "alias": "for-cooking-metro",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.de713ede2ca8f18291a168b8ff7080a6.300x300.png"
+      },
+      {
+        "title_ro": "Containere alimentare ",
+        "title_ru": "Для хранения продуктов",
+        "alias": "for-storage-food",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f2b1c2f10ca86e0228f24349fcf309ba.300x300.png"
+      },
+      {
+        "title_ro": "Veselă de unică folosință",
+        "title_ru": "Одноразовая посуда",
+        "alias": "disposable-tableware",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.dc2b6abe012f5948916711e9759f8968.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Hobby si odihna",
+    "title_ru": "Хобби и отдых",
+    "alias": "hobby-and-rest",
+    "subcategories": [
+      {
+        "title_ro": "Grădină, livadă",
+        "title_ru": "Сад, огород",
+        "alias": "garden-metro",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.72ce3d5b9b5eba6807fa8f149f59b0d0.300x300.png"
+      },
+      {
+        "title_ro": "Pentru reparație",
+        "title_ru": "Для ремонта",
+        "alias": "for-repairing",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.565990def24bb5e7d4190c0ee9254d89.300x300.png"
+      },
+      {
+        "title_ro": "Pentru turism și odihnă",
+        "title_ru": "Для туризма и отдыха",
+        "alias": "for-tourism-and-holidays",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.55d51c1f7bc502b4634a8f426353c322.300x300.png"
+      },
+      {
+        "title_ro": "Pentru automobile",
+        "title_ru": "Для автомобилей",
+        "alias": "for-cars",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.dd467af48e38843b2a109d8509f36e49.300x300.png"
+      },
+      {
+        "title_ro": "Pentru petreceri",
+        "title_ru": "Для вечеринок",
+        "alias": "for-partying",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.1b6beba7ee2bbc9fa1431b9ebd347224.300x300.png"
+      },
+      {
+        "title_ro": "Magazines and books",
+        "title_ru": "Журналы и книги",
+        "alias": "magazines-and-books",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.44b2288e151b9bbac8407daba6d13e44.300x300.png"
+      },
+      {
+        "title_ro": "Echipament sportiv",
+        "title_ru": "Спортивные товары",
+        "alias": "for-sport",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.fd6a383d903a29d659dd443d8a464247.300x300.png"
+      },
+      {
+        "title_ro": "Pentru fotografii",
+        "title_ru": "Для фото",
+        "alias": "for-photo",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.7b1fe736e4985a4c8765ff47dff281da.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Interior și textile",
+    "title_ru": "Интерьер и текстиль",
+    "alias": "home-interior-and-textiles",
+    "subcategories": [
+      {
+        "title_ro": "Lămpi și becuri",
+        "title_ru": "Лампы и лампочки",
+        "alias": "lamps",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.18f787c3cc709bdb65f6d8553f5b5313.300x300.png"
+      },
+      {
+        "title_ro": "Candles and candlesticks",
+        "title_ru": "Свечи и подсвечники",
+        "alias": "candles-and-candlesticks",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.ceb9f46063af1fe3063a1be9cd7a062f.300x300.png"
+      },
+      {
+        "title_ro": "Baterii și lanterne",
+        "title_ru": "Батарейки и фонарики",
+        "alias": "batteries-and-flashlights",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.9e17b2fa91d45d3d7e4eb97f4cfb74aa.300x300.png"
+      },
+      {
+        "title_ro": "Vaze și tablouri",
+        "title_ru": "Вазы и картины",
+        "alias": "vase-and-painting",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.ae83e96171c33fc077636b8051eb8a4c.300x300.png"
+      },
+      {
+        "title_ro": "Textile pentru casa",
+        "title_ru": "Домашний текстиль",
+        "alias": "home-textiles",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.a3a4477cb5054d5ec456d7d6d0ecda09.300x300.png"
+      },
+      {
+        "title_ro": "Covoare intrare",
+        "title_ru": "Придверные коврики",
+        "alias": "indoor-rugs",
+        "image": "https://supraten.md/image/catalog/products/1044137.png"
+      },
+      {
+        "title_ro": "Produse sezoniere",
+        "title_ru": "Сезонные товары",
+        "alias": "seasonal-goods",
+        "image": "https://cdn.pixabay.com/photo/2021/06/16/18/49/beach-6341985_1280.png"
+      },
+      {
+        "title_ro": "Altele",
+        "title_ru": "Другое",
+        "alias": "interior-other-accessories",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.889a9684d51fabd3270439ea40aa507b.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Papetărie",
+    "title_ru": "Канцелярия",
+    "alias": "stationery",
+    "subcategories": [
+      {
+        "title_ro": "Caiete, carnete, hârtie",
+        "title_ru": "Тетради, блокноты, бумага",
+        "alias": "notebooks-and-paper",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.50ac07931c31bafee2a7ae07d821e99e.300x300.png"
+      },
+      {
+        "title_ro": "Pixuri, creioane, markere",
+        "title_ru": "Ручки, карандаши, маркеры",
+        "alias": "pens-pencils-markers",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.76db2db7ec2b61e5fa48e3eb232c107d.300x300.png"
+      },
+      {
+        "title_ro": "Vopsele și plastilină",
+        "title_ru": "Краски и пластилин",
+        "alias": "paints-and-plasticine",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.34aadfd83375a95a1b84c61220957a0c.300x300.png"
+      },
+      {
+        "title_ro": "Pentru desen liniar",
+        "title_ru": "Для черчения",
+        "alias": "technical-drawing-equipment",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.b392cc25e504aa4d830875c1637c6092.300x300.png"
+      },
+      {
+        "title_ro": "Clame și altele ",
+        "title_ru": "Скрепки и другое",
+        "alias": "paper-clips-and-other",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.28175bab168cafa7b42c63bc018e372d.300x300.png"
+      },
+      {
+        "title_ro": "Mape, folii și altele",
+        "title_ru": "Папки, файлы и другое",
+        "alias": "folders-files-and-other",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.f34ba179a3621a06a0e2d0a4d15a94d5.300x300.png"
+      },
+      {
+        "title_ro": "Rechizite de oficiu",
+        "title_ru": "Офисные принадлежности",
+        "alias": "office-supplies",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.54ef8e8f18565daed6738437e4bb2b36.300x300.png"
+      },
+      {
+        "title_ro": "Penare",
+        "title_ru": "Пеналы",
+        "alias": "pen-case",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.10bb7fcc77a2961e53bc1791d2903343.300x300.png"
+      },
+      {
+        "title_ro": "School bags briefcases and business card cases",
+        "title_ru": "Портфели и визитницы",
+        "alias": "school-bags-briefcases-and-business-card-cases",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.986ef352a6b5dfbdb044450ff6a96462.300x300.png"
+      },
+      {
+        "title_ro": "Rucsacuri și genți ",
+        "title_ru": "Рюкзаки и сумки",
+        "alias": "backpack",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.183ed966c93083f5bdde76184184abb9.300x300.png"
+      },
+      {
+        "title_ro": "Foarfece, cuțite, lame",
+        "title_ru": "Ножницы, ножи, лезвия",
+        "alias": "scissors-box-cutters-blades",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.3c5007471ed47d2c05d72b6751622e7a.300x300.png"
+      },
+      {
+        "title_ro": "Clei, benzi adezive și altele ",
+        "title_ru": "Клей, скотч и другое",
+        "alias": "glue-scotch-and-other",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.67a637a56928eef307924db19e71400c.300x300.png"
+      },
+      {
+        "title_ro": "Accesorii de cancelarie",
+        "title_ru": "Канцелярские аксессуары",
+        "alias": "desk-accessories",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.93b82188d8f97ea815c41686f47e8864.300x300.png"
+      },
+      {
+        "title_ro": "Documentație contabilă",
+        "title_ru": "Бухгалтерская документация",
+        "alias": "accounting-documents",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.821d993d84acefce5e4a9c31b2158acf.300x300.png"
+      }
+    ]
+  },
+  {
+    "title_ro": "Pentru animale",
+    "title_ru": "Для животных",
+    "alias": "for-animals",
+    "subcategories": [
+      {
+        "title_ro": "Îngrijire",
+        "title_ru": "Уход",
+        "alias": "care-for-animals",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.2fc773a60949dc4f0a016588cfd20603.300x300.png"
+      },
+      {
+        "title_ro": "Alimentație",
+        "title_ru": "Питание",
+        "alias": "feed",
+        "image": "https://img1.zakaz.md/rubricator/upload.version_1.0.e99b84ec3fd5e3638a34306fb0d890ef.300x300.png"
+      }
+    ]
+  }
+]
